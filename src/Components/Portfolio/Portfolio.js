@@ -29,6 +29,51 @@ const Portfolio = () => {
             "https://www.linkedin.com/in/prof-mahadeva-prasanna-1b238b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         },
         // Add more cards as needed
+        {
+          title: "Board Director",
+          image: "/prof_mahadev_p.jpg",
+          name: "Prof Mahadev Prasanna",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/prof-mahadeva-prasanna-1b238b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
+        {
+          title: "Board Director",
+          image: "/prof_mahadev_p.jpg",
+          name: "Prof Mahadev Prasanna",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/prof-mahadeva-prasanna-1b238b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
+        {
+          title: "Board Director",
+          image: "/prof_mahadev_p.jpg",
+          name: "Prof Mahadev Prasanna",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/prof-mahadeva-prasanna-1b238b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
+        {
+          title: "Board Director",
+          image: "/prof_mahadev_p.jpg",
+          name: "Prof Mahadev Prasanna",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/prof-mahadeva-prasanna-1b238b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
+        {
+          title: "Board Director",
+          image: "/prof_mahadev_p.jpg",
+          name: "Prof Mahadev Prasanna",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/prof-mahadeva-prasanna-1b238b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
       ],
     },
     {
@@ -56,6 +101,24 @@ const Portfolio = () => {
             "https://www.linkedin.com/in/swananda-marathe-ba898522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         },
         // Add more cards as needed
+        {
+          title: "Co-Project Investigator",
+          image: "/DrSwanandaMarathe.jpg",
+          name: "Dr Swananda Marathe",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/swananda-marathe-ba898522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
+        {
+          title: "Co-Project Investigator",
+          image: "/DrSwanandaMarathe.jpg",
+          name: "Dr Swananda Marathe",
+          description:
+            "They understood our brand and created a stunning website design. Professional, responsive, and on-time delivery. Highly recommended!",
+          linkedin:
+            "https://www.linkedin.com/in/swananda-marathe-ba898522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        },
       ],
     },
   ];
