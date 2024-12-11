@@ -1,0 +1,125 @@
+@font-face {
+    font-family: Bold;
+    src: url(Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: Regular;
+    src: url(Poppins-Regular.ttf);
+}
+#about {
+    font-family: Regular;
+    padding-left: 25px;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 15%;
+    font-size: 23px;
+    justify-content: space-around;
+}
+
+#about h1 {
+    font-family: Bold;
+    color: #000000;
+    font-size: 40px;
+
+}
+
+#about h2 {
+    font-family: Bold;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 600;
+    font-weight: bold;
+}
+
+#journey {
+    font-family: Regular;
+    padding-left: 25px;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 15%;
+    font-size: 20px;
+
+}
+
+#journey h2 {
+    font-family: Bold;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 600;
+    font-weight: bold;
+
+}
+
+.vision-mission {
+    padding: 50px 20px;
+    background-color: rgb(63, 48, 48);
+    color: rgb(10, 0, 0);
+}
+
+.vision-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.vision-section-title {
+    color: black;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.vision-content {
+    font-family: Regular;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 4%;
+}
+
+.vision,
+.mission {
+    flex: 1;
+    max-width: 500px;
+    background-size: cover;
+    background-color: rgb(150, 217, 255);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.5s, background-color 0.3s;
+}
+
+.vision:hover {
+    transform: scale(1.05);
+}
+
+.mission:hover {
+    transform: scale(1.05);
+}
+
+#vision-mission h3 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+
+    color: #000000;
+}
+
+#vision-mission p,
+ul {
+    font-size: 20px;
+    line-height: 1.6;
+    text-align: left;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li strong {
+    color: #000000;
+}
